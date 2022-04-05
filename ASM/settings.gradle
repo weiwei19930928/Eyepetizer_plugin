@@ -1,0 +1,4 @@
+include ':buildsrc'
+include ':buildSrc'
+include ':app'
+rootProject.name = "ASM"
